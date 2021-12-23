@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6aDNH5ccaOt_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">MEDICARE BASICS 2022 (PEVIEW)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="MEDICARE_BASICS_2022_(PEVIEW)_ORG">
+    <organization identifier="MEDICARE_BASICS_2022_(PEVIEW)_ORG">
+      <title>MEDICARE BASICS 2022 (PEVIEW)</title>
+      <item identifier="MACRA_2020_Overview_SCO" isvisible="true" identifierref="__6aDNH5ccaOt_course_id_RES">
+        <title>MEDICARE BASICS 2022 (PEVIEW)</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6aDNH5ccaOt_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6QFBa1iyVIG_22_96_960x540.mp4" />
+      <file href="mobile/poster_6gJclM9Cyrr_video_6QFBa1iyVIG_22_96_960x540.jpg" />
+      <file href="story_content/6X3Kv86WzOU_44100_96_0.mp3" />
+      <file href="story_content/video_6M1d3rgUQ66_22_96_960x540.mp4" />
+      <file href="mobile/poster_6ZmuJZseUKe_video_6M1d3rgUQ66_22_96_960x540.jpg" />
+      <file href="story_content/video_5rZ8J5EgnVG_22_96_960x540.mp4" />
+      <file href="story_content/video_5YTqjLZaDF8_22_96_960x540.mp4" />
+      <file href="mobile/poster_5nEE4CLceu8_video_5YTqjLZaDF8_22_96_960x540.jpg" />
+      <file href="story_content/video_5eJeR1QJJBY_22_96_960x540.mp4" />
+      <file href="mobile/poster_5caFBWxy2kY_video_5eJeR1QJJBY_22_96_960x540.jpg" />
+      <file href="story_content/video_62UZJQO5F4P_22_96_960x540.mp4" />
+      <file href="story_content/video_5a1BHZ1Mk6z_22_96_960x540.mp4" />
+      <file href="mobile/poster_6YACtP9rXoc_video_5a1BHZ1Mk6z_22_96_960x540.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6g9Tx2UW92g.js" />
+      <file href="html5/data/js/6YFDEf3p78k.js" />
+      <file href="html5/data/js/65RO1BaYMBo.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6n7pWQtKf70.js" />
+      <file href="html5/data/js/6pAlREPvTuG.js" />
+      <file href="html5/data/js/5W8crdgCid4.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/6ppdvIebbrB.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
